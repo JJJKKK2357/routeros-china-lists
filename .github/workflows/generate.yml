@@ -1,0 +1,48 @@
+name: Generate China lists
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 21 * * *'
+  push:
+    branches: [main]
+    paths:
+      - convert.py
+      - tests/**
+      - .github/workflows/generate.yml
+permissions:
+  contents: write
+concurrency:
+  group: generate-china-lists
+  cancel-in-progress: false
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Test converter
+        run: python -B -m unittest discover -s tests -v
+      - name: Generate files
+        run: python convert.py
+      - name: Verify output hashes
+        working-directory: dist
+        run: sha256sum -c SHA256SUMS
+      - name: Upload generated files
+        uses: actions/upload-artifact@v4
+        with:
+          name: routeros-china-lists
+          path: dist/
+      - name: Commit updated lists
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dist
+          if git diff --cached --quiet; then
+            echo "No changes"
+            exit 0
+          fi
+          git commit -m "data: update generated China lists"
+          git push origin HEAD:main
