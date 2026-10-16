@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-15T23:42:09.553935+00:00",
+  "generated_at": "2026-10-16T23:39:41.112893+00:00",
   "counts": {
-    "ipv4": 3870,
-    "domains": 109819
+    "ipv4": 3879,
+    "domains": 109775
   },
   "sources": {
     "ipv4": {
       "url": "https://raw.githubusercontent.com/misakaio/chnroutes2/master/chnroutes.txt",
-      "sha256": "bf691650cdc8cd5dff71218bbc20fbae538de83e3bce8feacf1b429ffd7749b5"
+      "sha256": "fbdfa461b2f94cff011ba02b0c5e1830d171b47f31a2c7a7e8d6cf583acdcf53"
     },
     "domains": {
       "url": "https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf",
-      "sha256": "b8071108094457bad6910a8f71149c28443f0ffedb272123703bd1f03215cd45"
+      "sha256": "d5ff2f2fe2a0ed4c4380455351259e32d8635a3d60e513268ab0fec41110339d"
     }
   },
   "domain_dns_address": null,

@@ -229,7 +229,6 @@
 :if ([:len [/ip/dns/static/find where name="020ym.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: 020ym.com" }
 :if ([:len [/ip/dns/static/find where name="020zp.net" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: 020zp.net" }
 :if ([:len [/ip/dns/static/find where name="020ztc.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: 020ztc.com" }
-:if ([:len [/ip/dns/static/find where name="021-116114.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: 021-116114.com" }
 :if ([:len [/ip/dns/static/find where name="021.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: 021.com" }
 :if ([:len [/ip/dns/static/find where name="021.net" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: 021.net" }
 :if ([:len [/ip/dns/static/find where name="021.xn--5tzm5g" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: 021.xn--5tzm5g" }
@@ -508,7 +507,6 @@
 :if ([:len [/ip/dns/static/find where name="0515kf.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: 0515kf.com" }
 :if ([:len [/ip/dns/static/find where name="0515smw.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: 0515smw.com" }
 :if ([:len [/ip/dns/static/find where name="0515yc.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: 0515yc.com" }
-:if ([:len [/ip/dns/static/find where name="0515yy.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: 0515yy.com" }
 :if ([:len [/ip/dns/static/find where name="0516k.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: 0516k.com" }
 :if ([:len [/ip/dns/static/find where name="0517.net" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: 0517.net" }
 :if ([:len [/ip/dns/static/find where name="0517cw.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: 0517cw.com" }
@@ -4398,7 +4396,6 @@
 :if ([:len [/ip/dns/static/find where name="3y1.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: 3y1.com" }
 :if ([:len [/ip/dns/static/find where name="3y7h.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: 3y7h.com" }
 :if ([:len [/ip/dns/static/find where name="3yakj.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: 3yakj.com" }
-:if ([:len [/ip/dns/static/find where name="3ygww.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: 3ygww.com" }
 :if ([:len [/ip/dns/static/find where name="3yoqu.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: 3yoqu.com" }
 :if ([:len [/ip/dns/static/find where name="3yt.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: 3yt.com" }
 :if ([:len [/ip/dns/static/find where name="3yt.la" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: 3yt.la" }
@@ -7825,7 +7822,6 @@
 :if ([:len [/ip/dns/static/find where name="81677.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: 81677.com" }
 :if ([:len [/ip/dns/static/find where name="816798.net" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: 816798.net" }
 :if ([:len [/ip/dns/static/find where name="8169.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: 8169.com" }
-:if ([:len [/ip/dns/static/find where name="817398.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: 817398.com" }
 :if ([:len [/ip/dns/static/find where name="81761.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: 81761.com" }
 :if ([:len [/ip/dns/static/find where name="818.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: 818.com" }
 :if ([:len [/ip/dns/static/find where name="81813.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: 81813.com" }
@@ -8386,7 +8382,6 @@
 :if ([:len [/ip/dns/static/find where name="91360.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: 91360.com" }
 :if ([:len [/ip/dns/static/find where name="91378.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: 91378.com" }
 :if ([:len [/ip/dns/static/find where name="913pc.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: 913pc.com" }
-:if ([:len [/ip/dns/static/find where name="913vr.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: 913vr.com" }
 :if ([:len [/ip/dns/static/find where name="913you.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: 913you.com" }
 :if ([:len [/ip/dns/static/find where name="9149df3441020.beer" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: 9149df3441020.beer" }
 :if ([:len [/ip/dns/static/find where name="915.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: 915.com" }
@@ -9216,6 +9211,7 @@
 :if ([:len [/ip/dns/static/find where name="9fav.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: 9fav.com" }
 :if ([:len [/ip/dns/static/find where name="9fb8d5b6bff66a4d.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: 9fb8d5b6bff66a4d.com" }
 :if ([:len [/ip/dns/static/find where name="9fbank.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: 9fbank.com" }
+:if ([:len [/ip/dns/static/find where name="9fe06a.fyi" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: 9fe06a.fyi" }
 :if ([:len [/ip/dns/static/find where name="9fe3e7d4c10311.beer" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: 9fe3e7d4c10311.beer" }
 :if ([:len [/ip/dns/static/find where name="9fh5.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: 9fh5.com" }
 :if ([:len [/ip/dns/static/find where name="9first.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: 9first.com" }
@@ -9483,7 +9479,6 @@
 :if ([:len [/ip/dns/static/find where name="abbbio.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: abbbio.com" }
 :if ([:len [/ip/dns/static/find where name="abbisko.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: abbisko.com" }
 :if ([:len [/ip/dns/static/find where name="abbooa.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: abbooa.com" }
-:if ([:len [/ip/dns/static/find where name="abbreviat.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: abbreviat.com" }
 :if ([:len [/ip/dns/static/find where name="abbyschoice.net" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: abbyschoice.net" }
 :if ([:len [/ip/dns/static/find where name="abbyychina.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: abbyychina.com" }
 :if ([:len [/ip/dns/static/find where name="abc-ca.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: abc-ca.com" }
@@ -11118,7 +11113,6 @@
 :if ([:len [/ip/dns/static/find where name="alidnsv122.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: alidnsv122.com" }
 :if ([:len [/ip/dns/static/find where name="alidnsv4.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: alidnsv4.com" }
 :if ([:len [/ip/dns/static/find where name="alidnsv5.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: alidnsv5.com" }
-:if ([:len [/ip/dns/static/find where name="aliedge.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: aliedge.com" }
 :if ([:len [/ip/dns/static/find where name="aliensidea.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: aliensidea.com" }
 :if ([:len [/ip/dns/static/find where name="alientek.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: alientek.com" }
 :if ([:len [/ip/dns/static/find where name="aliexpress-media.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: aliexpress-media.com" }
@@ -11203,7 +11197,6 @@
 :if ([:len [/ip/dns/static/find where name="aliwork.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: aliwork.com" }
 :if ([:len [/ip/dns/static/find where name="aliwx.net" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: aliwx.net" }
 :if ([:len [/ip/dns/static/find where name="alixiaomi.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: alixiaomi.com" }
-:if ([:len [/ip/dns/static/find where name="alixiaoyouhui.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: alixiaoyouhui.com" }
 :if ([:len [/ip/dns/static/find where name="alixixi.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: alixixi.com" }
 :if ([:len [/ip/dns/static/find where name="alixox.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: alixox.com" }
 :if ([:len [/ip/dns/static/find where name="aliyiyao.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: aliyiyao.com" }
@@ -14052,7 +14045,6 @@
 :if ([:len [/ip/dns/static/find where name="baofeng365.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: baofeng365.com" }
 :if ([:len [/ip/dns/static/find where name="baofoo.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: baofoo.com" }
 :if ([:len [/ip/dns/static/find where name="baofoo.net" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: baofoo.net" }
-:if ([:len [/ip/dns/static/find where name="baofu.art" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: baofu.art" }
 :if ([:len [/ip/dns/static/find where name="baofu.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: baofu.com" }
 :if ([:len [/ip/dns/static/find where name="baofu.info" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: baofu.info" }
 :if ([:len [/ip/dns/static/find where name="baofull.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: baofull.com" }
@@ -15162,7 +15154,6 @@
 :if ([:len [/ip/dns/static/find where name="bhidi.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: bhidi.com" }
 :if ([:len [/ip/dns/static/find where name="bhjcsc.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: bhjcsc.com" }
 :if ([:len [/ip/dns/static/find where name="bhjh168.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: bhjh168.com" }
-:if ([:len [/ip/dns/static/find where name="bhjinghao.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: bhjinghao.com" }
 :if ([:len [/ip/dns/static/find where name="bhjjj360.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: bhjjj360.com" }
 :if ([:len [/ip/dns/static/find where name="bhjuxian.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: bhjuxian.com" }
 :if ([:len [/ip/dns/static/find where name="bhkyxy.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: bhkyxy.com" }
@@ -16128,7 +16119,6 @@
 :if ([:len [/ip/dns/static/find where name="bjppa.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: bjppa.com" }
 :if ([:len [/ip/dns/static/find where name="bjpryk.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: bjpryk.com" }
 :if ([:len [/ip/dns/static/find where name="bjqh.org" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: bjqh.org" }
-:if ([:len [/ip/dns/static/find where name="bjqhgjj.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: bjqhgjj.com" }
 :if ([:len [/ip/dns/static/find where name="bjqichezl.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: bjqichezl.com" }
 :if ([:len [/ip/dns/static/find where name="bjqingyang.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: bjqingyang.com" }
 :if ([:len [/ip/dns/static/find where name="bjqlg.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: bjqlg.com" }
@@ -17038,7 +17028,6 @@
 :if ([:len [/ip/dns/static/find where name="bpqwxsh.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: bpqwxsh.com" }
 :if ([:len [/ip/dns/static/find where name="bpsemi.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: bpsemi.com" }
 :if ([:len [/ip/dns/static/find where name="bpteach.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: bpteach.com" }
-:if ([:len [/ip/dns/static/find where name="bpuvuun0xg.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: bpuvuun0xg.com" }
 :if ([:len [/ip/dns/static/find where name="bpxxfw.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: bpxxfw.com" }
 :if ([:len [/ip/dns/static/find where name="bpxxvo.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: bpxxvo.com" }
 :if ([:len [/ip/dns/static/find where name="bq04.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: bq04.com" }
@@ -17556,7 +17545,6 @@
 :if ([:len [/ip/dns/static/find where name="byclean.net" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: byclean.net" }
 :if ([:len [/ip/dns/static/find where name="byd.auto" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: byd.auto" }
 :if ([:len [/ip/dns/static/find where name="byd.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: byd.com" }
-:if ([:len [/ip/dns/static/find where name="byd119.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: byd119.com" }
 :if ([:len [/ip/dns/static/find where name="bydauto.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: bydauto.com" }
 :if ([:len [/ip/dns/static/find where name="bydglobal.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: bydglobal.com" }
 :if ([:len [/ip/dns/static/find where name="bydhaiyang.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: bydhaiyang.com" }
@@ -17895,7 +17883,6 @@
 :if ([:len [/ip/dns/static/find where name="c558624c4b6f5f42.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: c558624c4b6f5f42.com" }
 :if ([:len [/ip/dns/static/find where name="c578801be1009.beer" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: c578801be1009.beer" }
 :if ([:len [/ip/dns/static/find where name="c57e6607c10292.beer" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: c57e6607c10292.beer" }
-:if ([:len [/ip/dns/static/find where name="c57fbfc585.skin" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: c57fbfc585.skin" }
 :if ([:len [/ip/dns/static/find where name="c5a13eec21010.beer" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: c5a13eec21010.beer" }
 :if ([:len [/ip/dns/static/find where name="c5b27c7c01019.beer" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: c5b27c7c01019.beer" }
 :if ([:len [/ip/dns/static/find where name="c5b6bpoq7q.world" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: c5b6bpoq7q.world" }
@@ -20522,7 +20509,6 @@
 :if ([:len [/ip/dns/static/find where name="chihao.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: chihao.com" }
 :if ([:len [/ip/dns/static/find where name="chihealbio.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: chihealbio.com" }
 :if ([:len [/ip/dns/static/find where name="chiheba.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: chiheba.com" }
-:if ([:len [/ip/dns/static/find where name="chiheshan.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: chiheshan.com" }
 :if ([:len [/ip/dns/static/find where name="chihkao.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: chihkao.com" }
 :if ([:len [/ip/dns/static/find where name="chihm.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: chihm.com" }
 :if ([:len [/ip/dns/static/find where name="chiji-h5.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: chiji-h5.com" }
@@ -25060,7 +25046,6 @@
 :if ([:len [/ip/dns/static/find where name="cqtkjj.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: cqtkjj.com" }
 :if ([:len [/ip/dns/static/find where name="cqtkyy.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: cqtkyy.com" }
 :if ([:len [/ip/dns/static/find where name="cqtl.org" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: cqtl.org" }
-:if ([:len [/ip/dns/static/find where name="cqtlskj.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: cqtlskj.com" }
 :if ([:len [/ip/dns/static/find where name="cqtn.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: cqtn.com" }
 :if ([:len [/ip/dns/static/find where name="cqtnfs.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: cqtnfs.com" }
 :if ([:len [/ip/dns/static/find where name="cqtqzx.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: cqtqzx.com" }
@@ -25800,7 +25785,6 @@
 :if ([:len [/ip/dns/static/find where name="cthuwork.net" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: cthuwork.net" }
 :if ([:len [/ip/dns/static/find where name="cti-cert.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: cti-cert.com" }
 :if ([:len [/ip/dns/static/find where name="ctibet.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: ctibet.com" }
-:if ([:len [/ip/dns/static/find where name="ctic-lab.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: ctic-lab.com" }
 :if ([:len [/ip/dns/static/find where name="ctic-labs.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: ctic-labs.com" }
 :if ([:len [/ip/dns/static/find where name="ctiea.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: ctiea.com" }
 :if ([:len [/ip/dns/static/find where name="ctiforum.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: ctiforum.com" }
@@ -26179,7 +26163,6 @@
 :if ([:len [/ip/dns/static/find where name="cydiaa.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: cydiaa.com" }
 :if ([:len [/ip/dns/static/find where name="cydiakk.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: cydiakk.com" }
 :if ([:len [/ip/dns/static/find where name="cydow.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: cydow.com" }
-:if ([:len [/ip/dns/static/find where name="cyegushi.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: cyegushi.com" }
 :if ([:len [/ip/dns/static/find where name="cyfeng.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: cyfeng.com" }
 :if ([:len [/ip/dns/static/find where name="cyfengchao.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: cyfengchao.com" }
 :if ([:len [/ip/dns/static/find where name="cyfyydyfy.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: cyfyydyfy.com" }
@@ -26777,7 +26760,6 @@
 :if ([:len [/ip/dns/static/find where name="dalao.net" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: dalao.net" }
 :if ([:len [/ip/dns/static/find where name="dalaosz.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: dalaosz.com" }
 :if ([:len [/ip/dns/static/find where name="daleigroup.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: daleigroup.com" }
-:if ([:len [/ip/dns/static/find where name="dalelingtea.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: dalelingtea.com" }
 :if ([:len [/ip/dns/static/find where name="dali-group.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: dali-group.com" }
 :if ([:len [/ip/dns/static/find where name="dalian-chuanpiao.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: dalian-chuanpiao.com" }
 :if ([:len [/ip/dns/static/find where name="dalianair-china.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: dalianair-china.com" }
@@ -27113,7 +27095,6 @@
 :if ([:len [/ip/dns/static/find where name="dataodu.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: dataodu.com" }
 :if ([:len [/ip/dns/static/find where name="dataojo.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: dataojo.com" }
 :if ([:len [/ip/dns/static/find where name="dataoke.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: dataoke.com" }
-:if ([:len [/ip/dns/static/find where name="datarelab.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: datarelab.com" }
 :if ([:len [/ip/dns/static/find where name="datarj.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: datarj.com" }
 :if ([:len [/ip/dns/static/find where name="datasheet5.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: datasheet5.com" }
 :if ([:len [/ip/dns/static/find where name="datastoragesummit.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: datastoragesummit.com" }
@@ -27519,7 +27500,6 @@
 :if ([:len [/ip/dns/static/find where name="ddxhx.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: ddxhx.com" }
 :if ([:len [/ip/dns/static/find where name="ddxhyl.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: ddxhyl.com" }
 :if ([:len [/ip/dns/static/find where name="ddxq.mobi" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: ddxq.mobi" }
-:if ([:len [/ip/dns/static/find where name="ddxs.vip" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: ddxs.vip" }
 :if ([:len [/ip/dns/static/find where name="ddxsku.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: ddxsku.com" }
 :if ([:len [/ip/dns/static/find where name="ddxstxt8.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: ddxstxt8.com" }
 :if ([:len [/ip/dns/static/find where name="ddyjapp.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: ddyjapp.com" }
@@ -28491,7 +28471,6 @@
 :if ([:len [/ip/dns/static/find where name="dingdone.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: dingdone.com" }
 :if ([:len [/ip/dns/static/find where name="dingdongcloud.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: dingdongcloud.com" }
 :if ([:len [/ip/dns/static/find where name="dingdongebusiness.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: dingdongebusiness.com" }
-:if ([:len [/ip/dns/static/find where name="dingdongmao.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: dingdongmao.com" }
 :if ([:len [/ip/dns/static/find where name="dingdongxiaoqu.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: dingdongxiaoqu.com" }
 :if ([:len [/ip/dns/static/find where name="dingdx.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: dingdx.com" }
 :if ([:len [/ip/dns/static/find where name="dingefactory.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: dingefactory.com" }
@@ -28612,6 +28591,7 @@
 :if ([:len [/ip/dns/static/find where name="ditiezu.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: ditiezu.com" }
 :if ([:len [/ip/dns/static/find where name="ditiezu.net" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: ditiezu.net" }
 :if ([:len [/ip/dns/static/find where name="ditrit.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: ditrit.com" }
+:if ([:len [/ip/dns/static/find where name="dittocdn.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: dittocdn.com" }
 :if ([:len [/ip/dns/static/find where name="ditu.live.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: ditu.live.com" }
 :if ([:len [/ip/dns/static/find where name="dituhui.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: dituhui.com" }
 :if ([:len [/ip/dns/static/find where name="dituw.net" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: dituw.net" }
@@ -28960,6 +28940,7 @@
 :if ([:len [/ip/dns/static/find where name="dns-waf.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: dns-waf.com" }
 :if ([:len [/ip/dns/static/find where name="dns.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: dns.com" }
 :if ([:len [/ip/dns/static/find where name="dns.la" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: dns.la" }
+:if ([:len [/ip/dns/static/find where name="dns.lat" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: dns.lat" }
 :if ([:len [/ip/dns/static/find where name="dns.pub" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: dns.pub" }
 :if ([:len [/ip/dns/static/find where name="dns002.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: dns002.com" }
 :if ([:len [/ip/dns/static/find where name="dns0755.net" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: dns0755.net" }
@@ -30412,7 +30393,6 @@
 :if ([:len [/ip/dns/static/find where name="dyswl.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: dyswl.com" }
 :if ([:len [/ip/dns/static/find where name="dytmgm.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: dytmgm.com" }
 :if ([:len [/ip/dns/static/find where name="dytss.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: dytss.com" }
-:if ([:len [/ip/dns/static/find where name="dytt2028.cc" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: dytt2028.cc" }
 :if ([:len [/ip/dns/static/find where name="dytt789.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: dytt789.com" }
 :if ([:len [/ip/dns/static/find where name="dytt7899.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: dytt7899.com" }
 :if ([:len [/ip/dns/static/find where name="dytt8.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: dytt8.com" }
@@ -34478,7 +34458,6 @@
 :if ([:len [/ip/dns/static/find where name="fnnas.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: fnnas.com" }
 :if ([:len [/ip/dns/static/find where name="fnnas.net" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: fnnas.net" }
 :if ([:len [/ip/dns/static/find where name="fnnsh.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: fnnsh.com" }
-:if ([:len [/ip/dns/static/find where name="fnnspa.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: fnnspa.com" }
 :if ([:len [/ip/dns/static/find where name="fnos.net" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: fnos.net" }
 :if ([:len [/ip/dns/static/find where name="fnrcw.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: fnrcw.com" }
 :if ([:len [/ip/dns/static/find where name="fnrczp.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: fnrczp.com" }
@@ -35289,7 +35268,6 @@
 :if ([:len [/ip/dns/static/find where name="fuxiaoli.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: fuxiaoli.com" }
 :if ([:len [/ip/dns/static/find where name="fuxila.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: fuxila.com" }
 :if ([:len [/ip/dns/static/find where name="fuxinbank.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: fuxinbank.com" }
-:if ([:len [/ip/dns/static/find where name="fuxinews.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: fuxinews.com" }
 :if ([:len [/ip/dns/static/find where name="fuxinghf.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: fuxinghf.com" }
 :if ([:len [/ip/dns/static/find where name="fuxingtech.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: fuxingtech.com" }
 :if ([:len [/ip/dns/static/find where name="fuxingwang.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: fuxingwang.com" }
@@ -35629,7 +35607,6 @@
 :if ([:len [/ip/dns/static/find where name="g1080.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: g1080.com" }
 :if ([:len [/ip/dns/static/find where name="g12e.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: g12e.com" }
 :if ([:len [/ip/dns/static/find where name="g12e.org" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: g12e.org" }
-:if ([:len [/ip/dns/static/find where name="g15wt3ci68.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: g15wt3ci68.com" }
 :if ([:len [/ip/dns/static/find where name="g188.net" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: g188.net" }
 :if ([:len [/ip/dns/static/find where name="g1c5.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: g1c5.com" }
 :if ([:len [/ip/dns/static/find where name="g1d.net" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: g1d.net" }
@@ -36319,7 +36296,6 @@
 :if ([:len [/ip/dns/static/find where name="gdgrsw.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: gdgrsw.com" }
 :if ([:len [/ip/dns/static/find where name="gdguangdong.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: gdguangdong.com" }
 :if ([:len [/ip/dns/static/find where name="gdguozhi.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: gdguozhi.com" }
-:if ([:len [/ip/dns/static/find where name="gdgwyw.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: gdgwyw.com" }
 :if ([:len [/ip/dns/static/find where name="gdgxw.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: gdgxw.com" }
 :if ([:len [/ip/dns/static/find where name="gdgxxbw.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: gdgxxbw.com" }
 :if ([:len [/ip/dns/static/find where name="gdgzhengzhou.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: gdgzhengzhou.com" }
@@ -38113,7 +38089,6 @@
 :if ([:len [/ip/dns/static/find where name="googleplus.party" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: googleplus.party" }
 :if ([:len [/ip/dns/static/find where name="googleppy.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: googleppy.com" }
 :if ([:len [/ip/dns/static/find where name="googlevoice.org" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: googlevoice.org" }
-:if ([:len [/ip/dns/static/find where name="googley8rb.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: googley8rb.com" }
 :if ([:len [/ip/dns/static/find where name="googleyixia.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: googleyixia.com" }
 :if ([:len [/ip/dns/static/find where name="googoc.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: googoc.com" }
 :if ([:len [/ip/dns/static/find where name="googol-power.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: googol-power.com" }
@@ -38359,6 +38334,7 @@
 :if ([:len [/ip/dns/static/find where name="graueneko.xyz" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: graueneko.xyz" }
 :if ([:len [/ip/dns/static/find where name="gravity-engine.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: gravity-engine.com" }
 :if ([:len [/ip/dns/static/find where name="graz.quest" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: graz.quest" }
+:if ([:len [/ip/dns/static/find where name="grboi.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: grboi.com" }
 :if ([:len [/ip/dns/static/find where name="grcbank.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: grcbank.com" }
 :if ([:len [/ip/dns/static/find where name="grchina.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: grchina.com" }
 :if ([:len [/ip/dns/static/find where name="great-future.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: great-future.com" }
@@ -39880,7 +39856,6 @@
 :if ([:len [/ip/dns/static/find where name="gxhtjx.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: gxhtjx.com" }
 :if ([:len [/ip/dns/static/find where name="gxhtte.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: gxhtte.com" }
 :if ([:len [/ip/dns/static/find where name="gxhuabao.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: gxhuabao.com" }
-:if ([:len [/ip/dns/static/find where name="gxhuachi.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: gxhuachi.com" }
 :if ([:len [/ip/dns/static/find where name="gxhuachuang.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: gxhuachuang.com" }
 :if ([:len [/ip/dns/static/find where name="gxhuadu.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: gxhuadu.com" }
 :if ([:len [/ip/dns/static/find where name="gxhuaen.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: gxhuaen.com" }
@@ -42552,7 +42527,6 @@
 :if ([:len [/ip/dns/static/find where name="haomenke.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: haomenke.com" }
 :if ([:len [/ip/dns/static/find where name="haomifi.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: haomifi.com" }
 :if ([:len [/ip/dns/static/find where name="haomingguan.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: haomingguan.com" }
-:if ([:len [/ip/dns/static/find where name="haommn.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: haommn.com" }
 :if ([:len [/ip/dns/static/find where name="haomo-tech.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: haomo-tech.com" }
 :if ([:len [/ip/dns/static/find where name="haomove.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: haomove.com" }
 :if ([:len [/ip/dns/static/find where name="haomzl.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: haomzl.com" }
@@ -50597,7 +50571,6 @@
 :if ([:len [/ip/dns/static/find where name="iquickfish.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: iquickfish.com" }
 :if ([:len [/ip/dns/static/find where name="iqujing.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: iqujing.com" }
 :if ([:len [/ip/dns/static/find where name="iqunix.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: iqunix.com" }
-:if ([:len [/ip/dns/static/find where name="iqunix.store" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: iqunix.store" }
 :if ([:len [/ip/dns/static/find where name="iqupdate.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: iqupdate.com" }
 :if ([:len [/ip/dns/static/find where name="iqxedu.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: iqxedu.com" }
 :if ([:len [/ip/dns/static/find where name="ir56.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: ir56.com" }
@@ -54084,7 +54057,6 @@
 :if ([:len [/ip/dns/static/find where name="johnlz.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: johnlz.com" }
 :if ([:len [/ip/dns/static/find where name="johnmedia.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: johnmedia.com" }
 :if ([:len [/ip/dns/static/find where name="johouse.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: johouse.com" }
-:if ([:len [/ip/dns/static/find where name="joi09110pt.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: joi09110pt.com" }
 :if ([:len [/ip/dns/static/find where name="joiest.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: joiest.com" }
 :if ([:len [/ip/dns/static/find where name="joinchitchat.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: joinchitchat.com" }
 :if ([:len [/ip/dns/static/find where name="joindata.net" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: joindata.net" }
@@ -56838,7 +56810,6 @@
 :if ([:len [/ip/dns/static/find where name="kilamanbo.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: kilamanbo.com" }
 :if ([:len [/ip/dns/static/find where name="kililife.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: kililife.com" }
 :if ([:len [/ip/dns/static/find where name="killdb.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: killdb.com" }
-:if ([:len [/ip/dns/static/find where name="kilo1kw.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: kilo1kw.com" }
 :if ([:len [/ip/dns/static/find where name="kiloai.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: kiloai.com" }
 :if ([:len [/ip/dns/static/find where name="kimberley-technology.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: kimberley-technology.com" }
 :if ([:len [/ip/dns/static/find where name="kimderlite.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: kimderlite.com" }
@@ -58664,7 +58635,6 @@
 :if ([:len [/ip/dns/static/find where name="laravel-admin.org" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: laravel-admin.org" }
 :if ([:len [/ip/dns/static/find where name="laravelacademy.org" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: laravelacademy.org" }
 :if ([:len [/ip/dns/static/find where name="larenla.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: larenla.com" }
-:if ([:len [/ip/dns/static/find where name="large.net" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: large.net" }
 :if ([:len [/ip/dns/static/find where name="lark-passport-qa-sg.net" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: lark-passport-qa-sg.net" }
 :if ([:len [/ip/dns/static/find where name="larkapp.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: larkapp.com" }
 :if ([:len [/ip/dns/static/find where name="larkcloud.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: larkcloud.com" }
@@ -59887,7 +59857,6 @@
 :if ([:len [/ip/dns/static/find where name="lighte-tech.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: lighte-tech.com" }
 :if ([:len [/ip/dns/static/find where name="lightgx.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: lightgx.com" }
 :if ([:len [/ip/dns/static/find where name="lighthg.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: lighthg.com" }
-:if ([:len [/ip/dns/static/find where name="lighting-china.net" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: lighting-china.net" }
 :if ([:len [/ip/dns/static/find where name="lightingchina.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: lightingchina.com" }
 :if ([:len [/ip/dns/static/find where name="lightinit.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: lightinit.com" }
 :if ([:len [/ip/dns/static/find where name="lightky.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: lightky.com" }
@@ -59916,7 +59885,6 @@
 :if ([:len [/ip/dns/static/find where name="lihua.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: lihua.com" }
 :if ([:len [/ip/dns/static/find where name="lihuadonghua.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: lihuadonghua.com" }
 :if ([:len [/ip/dns/static/find where name="lihuamuye.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: lihuamuye.com" }
-:if ([:len [/ip/dns/static/find where name="lihuashouji.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: lihuashouji.com" }
 :if ([:len [/ip/dns/static/find where name="lihuasoft.net" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: lihuasoft.net" }
 :if ([:len [/ip/dns/static/find where name="lihui.net" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: lihui.net" }
 :if ([:len [/ip/dns/static/find where name="lihuia.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: lihuia.com" }
@@ -63773,7 +63741,6 @@
 :if ([:len [/ip/dns/static/find where name="mekedoo.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: mekedoo.com" }
 :if ([:len [/ip/dns/static/find where name="meldingcloud.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: meldingcloud.com" }
 :if ([:len [/ip/dns/static/find where name="melecode.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: melecode.com" }
-:if ([:len [/ip/dns/static/find where name="melizhi.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: melizhi.com" }
 :if ([:len [/ip/dns/static/find where name="mellowactivy.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: mellowactivy.com" }
 :if ([:len [/ip/dns/static/find where name="mellowgroups.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: mellowgroups.com" }
 :if ([:len [/ip/dns/static/find where name="melon-eptc.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: melon-eptc.com" }
@@ -67815,7 +67782,6 @@
 :if ([:len [/ip/dns/static/find where name="njkskn.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: njkskn.com" }
 :if ([:len [/ip/dns/static/find where name="njkzgjj.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: njkzgjj.com" }
 :if ([:len [/ip/dns/static/find where name="njlanwu.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: njlanwu.com" }
-:if ([:len [/ip/dns/static/find where name="njletop.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: njletop.com" }
 :if ([:len [/ip/dns/static/find where name="njlg56.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: njlg56.com" }
 :if ([:len [/ip/dns/static/find where name="njlhzn.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: njlhzn.com" }
 :if ([:len [/ip/dns/static/find where name="njlianyang.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: njlianyang.com" }
@@ -69559,7 +69525,6 @@
 :if ([:len [/ip/dns/static/find where name="onkocares.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: onkocares.com" }
 :if ([:len [/ip/dns/static/find where name="online-cmcc.net" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: online-cmcc.net" }
 :if ([:len [/ip/dns/static/find where name="online-edu.org" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: online-edu.org" }
-:if ([:len [/ip/dns/static/find where name="online-phaidon.shop" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: online-phaidon.shop" }
 :if ([:len [/ip/dns/static/find where name="onlinecn.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: onlinecn.com" }
 :if ([:len [/ip/dns/static/find where name="onlineding.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: onlineding.com" }
 :if ([:len [/ip/dns/static/find where name="onlinedown.net" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: onlinedown.net" }
@@ -70378,7 +70343,6 @@
 :if ([:len [/ip/dns/static/find where name="pangdago.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: pangdago.com" }
 :if ([:len [/ip/dns/static/find where name="pangdasc.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: pangdasc.com" }
 :if ([:len [/ip/dns/static/find where name="pangdly.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: pangdly.com" }
-:if ([:len [/ip/dns/static/find where name="panggugu.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: panggugu.com" }
 :if ([:len [/ip/dns/static/find where name="panghuasheng.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: panghuasheng.com" }
 :if ([:len [/ip/dns/static/find where name="pangjun.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: pangjun.com" }
 :if ([:len [/ip/dns/static/find where name="pangku.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: pangku.com" }
@@ -71054,7 +71018,6 @@
 :if ([:len [/ip/dns/static/find where name="php168.net" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: php168.net" }
 :if ([:len [/ip/dns/static/find where name="php318.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: php318.com" }
 :if ([:len [/ip/dns/static/find where name="phpbbchina.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: phpbbchina.com" }
-:if ([:len [/ip/dns/static/find where name="phpcashshare.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: phpcashshare.com" }
 :if ([:len [/ip/dns/static/find where name="phpchina.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: phpchina.com" }
 :if ([:len [/ip/dns/static/find where name="phpcom.net" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: phpcom.net" }
 :if ([:len [/ip/dns/static/find where name="phpcomposer.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: phpcomposer.com" }
@@ -71715,7 +71678,6 @@
 :if ([:len [/ip/dns/static/find where name="portal.naea1.uds.lenovo.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: portal.naea1.uds.lenovo.com" }
 :if ([:len [/ip/dns/static/find where name="portal.uds.lenovo.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: portal.uds.lenovo.com" }
 :if ([:len [/ip/dns/static/find where name="portalcdn.cdnetworks.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: portalcdn.cdnetworks.com" }
-:if ([:len [/ip/dns/static/find where name="portcontainer.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: portcontainer.com" }
 :if ([:len [/ip/dns/static/find where name="porthebei.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: porthebei.com" }
 :if ([:len [/ip/dns/static/find where name="portjs.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: portjs.com" }
 :if ([:len [/ip/dns/static/find where name="portjs.net" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: portjs.net" }
@@ -72379,6 +72341,7 @@
 :if ([:len [/ip/dns/static/find where name="pymh.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: pymh.com" }
 :if ([:len [/ip/dns/static/find where name="pyneo.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: pyneo.com" }
 :if ([:len [/ip/dns/static/find where name="pyou.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: pyou.com" }
+:if ([:len [/ip/dns/static/find where name="pyquan.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: pyquan.com" }
 :if ([:len [/ip/dns/static/find where name="pyrc.net" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: pyrc.net" }
 :if ([:len [/ip/dns/static/find where name="pyshszh.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: pyshszh.com" }
 :if ([:len [/ip/dns/static/find where name="pystar.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: pystar.com" }
@@ -79440,6 +79403,7 @@
 :if ([:len [/ip/dns/static/find where name="shengsci.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: shengsci.com" }
 :if ([:len [/ip/dns/static/find where name="shengshizhicheng.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: shengshizhicheng.com" }
 :if ([:len [/ip/dns/static/find where name="shengtai.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: shengtai.com" }
+:if ([:len [/ip/dns/static/find where name="shengtai.cyou" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: shengtai.cyou" }
 :if ([:len [/ip/dns/static/find where name="shengtaigroup.net" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: shengtaigroup.net" }
 :if ([:len [/ip/dns/static/find where name="shengtian.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: shengtian.com" }
 :if ([:len [/ip/dns/static/find where name="shengtiangames.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: shengtiangames.com" }
@@ -80430,7 +80394,6 @@
 :if ([:len [/ip/dns/static/find where name="shuangxingseed.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: shuangxingseed.com" }
 :if ([:len [/ip/dns/static/find where name="shuangxinhui.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: shuangxinhui.com" }
 :if ([:len [/ip/dns/static/find where name="shuangxiumall.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: shuangxiumall.com" }
-:if ([:len [/ip/dns/static/find where name="shuangyanjie.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: shuangyanjie.com" }
 :if ([:len [/ip/dns/static/find where name="shuangyingmenye.net" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: shuangyingmenye.net" }
 :if ([:len [/ip/dns/static/find where name="shuangyingsx.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: shuangyingsx.com" }
 :if ([:len [/ip/dns/static/find where name="shuangyuejn.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: shuangyuejn.com" }
@@ -86210,7 +86173,6 @@
 :if ([:len [/ip/dns/static/find where name="teambition.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: teambition.com" }
 :if ([:len [/ip/dns/static/find where name="teambition.net" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: teambition.net" }
 :if ([:len [/ip/dns/static/find where name="teambitionapis.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: teambitionapis.com" }
-:if ([:len [/ip/dns/static/find where name="teamlogs.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: teamlogs.com" }
 :if ([:len [/ip/dns/static/find where name="teamminus.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: teamminus.com" }
 :if ([:len [/ip/dns/static/find where name="teamshub.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: teamshub.com" }
 :if ([:len [/ip/dns/static/find where name="teamtop.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: teamtop.com" }
@@ -86596,6 +86558,7 @@
 :if ([:len [/ip/dns/static/find where name="tenganxinxi.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: tenganxinxi.com" }
 :if ([:len [/ip/dns/static/find where name="tengbai-it.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: tengbai-it.com" }
 :if ([:len [/ip/dns/static/find where name="tengbo.cc" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: tengbo.cc" }
+:if ([:len [/ip/dns/static/find where name="tengcanxi.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: tengcanxi.com" }
 :if ([:len [/ip/dns/static/find where name="tengchangjiancai.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: tengchangjiancai.com" }
 :if ([:len [/ip/dns/static/find where name="tengdatumu.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: tengdatumu.com" }
 :if ([:len [/ip/dns/static/find where name="tengdawl.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: tengdawl.com" }
@@ -86985,7 +86948,6 @@
 :if ([:len [/ip/dns/static/find where name="thmzedu.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: thmzedu.com" }
 :if ([:len [/ip/dns/static/find where name="thny.cc" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: thny.cc" }
 :if ([:len [/ip/dns/static/find where name="thojmhw.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: thojmhw.com" }
-:if ([:len [/ip/dns/static/find where name="thomanmustore.shop" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: thomanmustore.shop" }
 :if ([:len [/ip/dns/static/find where name="thomasschools.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: thomasschools.com" }
 :if ([:len [/ip/dns/static/find where name="thoreco.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: thoreco.com" }
 :if ([:len [/ip/dns/static/find where name="thorn.red" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: thorn.red" }
@@ -89571,7 +89533,6 @@
 :if ([:len [/ip/dns/static/find where name="tyust.net" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: tyust.net" }
 :if ([:len [/ip/dns/static/find where name="tyuyan.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: tyuyan.com" }
 :if ([:len [/ip/dns/static/find where name="tyuyan.net" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: tyuyan.net" }
-:if ([:len [/ip/dns/static/find where name="tywbw.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: tywbw.com" }
 :if ([:len [/ip/dns/static/find where name="tywh.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: tywh.com" }
 :if ([:len [/ip/dns/static/find where name="tywheels.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: tywheels.com" }
 :if ([:len [/ip/dns/static/find where name="tywx.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: tywx.com" }
@@ -94637,7 +94598,6 @@
 :if ([:len [/ip/dns/static/find where name="woc.space" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: woc.space" }
 :if ([:len [/ip/dns/static/find where name="woc88.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: woc88.com" }
 :if ([:len [/ip/dns/static/find where name="wochacha.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: wochacha.com" }
-:if ([:len [/ip/dns/static/find where name="wochaw.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: wochaw.com" }
 :if ([:len [/ip/dns/static/find where name="woda.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: woda.com" }
 :if ([:len [/ip/dns/static/find where name="wodasi.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: wodasi.com" }
 :if ([:len [/ip/dns/static/find where name="wodavip.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: wodavip.com" }
@@ -96639,6 +96599,7 @@
 :if ([:len [/ip/dns/static/find where name="xhjyxxw.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: xhjyxxw.com" }
 :if ([:len [/ip/dns/static/find where name="xhlcsl.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: xhlcsl.com" }
 :if ([:len [/ip/dns/static/find where name="xhlsgs.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: xhlsgs.com" }
+:if ([:len [/ip/dns/static/find where name="xhlylx.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: xhlylx.com" }
 :if ([:len [/ip/dns/static/find where name="xhma.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: xhma.com" }
 :if ([:len [/ip/dns/static/find where name="xhmedia.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: xhmedia.com" }
 :if ([:len [/ip/dns/static/find where name="xhmwxy.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: xhmwxy.com" }
@@ -97496,7 +97457,6 @@
 :if ([:len [/ip/dns/static/find where name="xiguaapp.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: xiguaapp.com" }
 :if ([:len [/ip/dns/static/find where name="xiguabook.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: xiguabook.com" }
 :if ([:len [/ip/dns/static/find where name="xiguaji.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: xiguaji.com" }
-:if ([:len [/ip/dns/static/find where name="xiguang.xyz" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: xiguang.xyz" }
 :if ([:len [/ip/dns/static/find where name="xiguaplayer.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: xiguaplayer.com" }
 :if ([:len [/ip/dns/static/find where name="xiguashipin.net" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: xiguashipin.net" }
 :if ([:len [/ip/dns/static/find where name="xiguavideo.net" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: xiguavideo.net" }
@@ -98656,7 +98616,6 @@
 :if ([:len [/ip/dns/static/find where name="xmkanshu.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: xmkanshu.com" }
 :if ([:len [/ip/dns/static/find where name="xmkj.beer" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: xmkj.beer" }
 :if ([:len [/ip/dns/static/find where name="xml-journal.net" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: xml-journal.net" }
-:if ([:len [/ip/dns/static/find where name="xmldz4.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: xmldz4.com" }
 :if ([:len [/ip/dns/static/find where name="xmlhifi.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: xmlhifi.com" }
 :if ([:len [/ip/dns/static/find where name="xmlib.net" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: xmlib.net" }
 :if ([:len [/ip/dns/static/find where name="xmlvbarcode.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: xmlvbarcode.com" }
@@ -98941,7 +98900,6 @@
 :if ([:len [/ip/dns/static/find where name="xn--w9qr0k.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: xn--w9qr0k.com" }
 :if ([:len [/ip/dns/static/find where name="xn--w9qy23cc6adz7d.net" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: xn--w9qy23cc6adz7d.net" }
 :if ([:len [/ip/dns/static/find where name="xn--wbsy6nk4mnpa575i6fy.xn--3ds443g" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: xn--wbsy6nk4mnpa575i6fy.xn--3ds443g" }
-:if ([:len [/ip/dns/static/find where name="xn--wbsz85a2a.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: xn--wbsz85a2a.com" }
 :if ([:len [/ip/dns/static/find where name="xn--wlq49r6tr7zal0u.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: xn--wlq49r6tr7zal0u.com" }
 :if ([:len [/ip/dns/static/find where name="xn--wxtr44c.live" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: xn--wxtr44c.live" }
 :if ([:len [/ip/dns/static/find where name="xn--xcrv5deweeznlnez29a.xn--3ds443g" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: xn--xcrv5deweeznlnez29a.xn--3ds443g" }
@@ -99451,7 +99409,6 @@
 :if ([:len [/ip/dns/static/find where name="xueshu.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: xueshu.com" }
 :if ([:len [/ip/dns/static/find where name="xueshu5.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: xueshu5.com" }
 :if ([:len [/ip/dns/static/find where name="xueshuda.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: xueshuda.com" }
-:if ([:len [/ip/dns/static/find where name="xueshujia.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: xueshujia.com" }
 :if ([:len [/ip/dns/static/find where name="xueshut.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: xueshut.com" }
 :if ([:len [/ip/dns/static/find where name="xueshuwenhai.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: xueshuwenhai.com" }
 :if ([:len [/ip/dns/static/find where name="xuesongshuwood.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: xuesongshuwood.com" }
@@ -107960,7 +107917,6 @@
 :if ([:len [/ip/dns/static/find where name="zjhwgroup.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: zjhwgroup.com" }
 :if ([:len [/ip/dns/static/find where name="zjhx520.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: zjhx520.com" }
 :if ([:len [/ip/dns/static/find where name="zjhxgf.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: zjhxgf.com" }
-:if ([:len [/ip/dns/static/find where name="zjhxw.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: zjhxw.com" }
 :if ([:len [/ip/dns/static/find where name="zjhyrcb.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: zjhyrcb.com" }
 :if ([:len [/ip/dns/static/find where name="zjhzgy.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: zjhzgy.com" }
 :if ([:len [/ip/dns/static/find where name="zjhzjt.com" comment!="routeros-china-lists:domains"]] > 0) do={ :error "DNS name conflict: zjhzjt.com" }
@@ -110050,7 +110006,6 @@ add name="020xue.com" type=FWD match-subdomain=yes comment="routeros-china-lists
 add name="020ym.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="020zp.net" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="020ztc.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
-add name="021-116114.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="021.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="021.net" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="021.xn--5tzm5g" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
@@ -110329,7 +110284,6 @@ add name="051591.com" type=FWD match-subdomain=yes comment="routeros-china-lists
 add name="0515kf.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="0515smw.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="0515yc.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
-add name="0515yy.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="0516k.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="0517.net" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="0517cw.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
@@ -114219,7 +114173,6 @@ add name="3xinhome.com" type=FWD match-subdomain=yes comment="routeros-china-lis
 add name="3y1.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="3y7h.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="3yakj.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
-add name="3ygww.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="3yoqu.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="3yt.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="3yt.la" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
@@ -117646,7 +117599,6 @@ add name="81663344.com" type=FWD match-subdomain=yes comment="routeros-china-lis
 add name="81677.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="816798.net" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="8169.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
-add name="817398.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="81761.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="818.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="81813.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
@@ -118207,7 +118159,6 @@ add name="9133.com" type=FWD match-subdomain=yes comment="routeros-china-lists:d
 add name="91360.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="91378.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="913pc.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
-add name="913vr.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="913you.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="9149df3441020.beer" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="915.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
@@ -119037,6 +118988,7 @@ add name="9fapi.com" type=FWD match-subdomain=yes comment="routeros-china-lists:
 add name="9fav.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="9fb8d5b6bff66a4d.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="9fbank.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
+add name="9fe06a.fyi" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="9fe3e7d4c10311.beer" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="9fh5.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="9first.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
@@ -119304,7 +119256,6 @@ add name="abatour.com" type=FWD match-subdomain=yes comment="routeros-china-list
 add name="abbbio.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="abbisko.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="abbooa.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
-add name="abbreviat.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="abbyschoice.net" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="abbyychina.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="abc-ca.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
@@ -120939,7 +120890,6 @@ add name="alidns.net" type=FWD match-subdomain=yes comment="routeros-china-lists
 add name="alidnsv122.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="alidnsv4.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="alidnsv5.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
-add name="aliedge.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="aliensidea.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="alientek.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="aliexpress-media.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
@@ -121024,7 +120974,6 @@ add name="aliwd.com" type=FWD match-subdomain=yes comment="routeros-china-lists:
 add name="aliwork.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="aliwx.net" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="alixiaomi.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
-add name="alixiaoyouhui.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="alixixi.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="alixox.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="aliyiyao.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
@@ -123873,7 +123822,6 @@ add name="baofeng.net" type=FWD match-subdomain=yes comment="routeros-china-list
 add name="baofeng365.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="baofoo.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="baofoo.net" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
-add name="baofu.art" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="baofu.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="baofu.info" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="baofull.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
@@ -124983,7 +124931,6 @@ add name="bhhthl.com" type=FWD match-subdomain=yes comment="routeros-china-lists
 add name="bhidi.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="bhjcsc.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="bhjh168.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
-add name="bhjinghao.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="bhjjj360.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="bhjuxian.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="bhkyxy.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
@@ -125949,7 +125896,6 @@ add name="bjpowernode.com" type=FWD match-subdomain=yes comment="routeros-china-
 add name="bjppa.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="bjpryk.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="bjqh.org" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
-add name="bjqhgjj.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="bjqichezl.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="bjqingyang.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="bjqlg.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
@@ -126859,7 +126805,6 @@ add name="bpmuseum.com" type=FWD match-subdomain=yes comment="routeros-china-lis
 add name="bpqwxsh.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="bpsemi.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="bpteach.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
-add name="bpuvuun0xg.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="bpxxfw.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="bpxxvo.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="bq04.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
@@ -127377,7 +127322,6 @@ add name="byc168.com" type=FWD match-subdomain=yes comment="routeros-china-lists
 add name="byclean.net" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="byd.auto" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="byd.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
-add name="byd119.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="bydauto.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="bydglobal.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="bydhaiyang.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
@@ -127716,7 +127660,6 @@ add name="c54sauo3y85m2g.com" type=FWD match-subdomain=yes comment="routeros-chi
 add name="c558624c4b6f5f42.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="c578801be1009.beer" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="c57e6607c10292.beer" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
-add name="c57fbfc585.skin" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="c5a13eec21010.beer" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="c5b27c7c01019.beer" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="c5b6bpoq7q.world" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
@@ -130343,7 +130286,6 @@ add name="chietom.com" type=FWD match-subdomain=yes comment="routeros-china-list
 add name="chihao.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="chihealbio.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="chiheba.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
-add name="chiheshan.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="chihkao.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="chihm.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="chiji-h5.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
@@ -134881,7 +134823,6 @@ add name="cqtieba.com" type=FWD match-subdomain=yes comment="routeros-china-list
 add name="cqtkjj.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="cqtkyy.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="cqtl.org" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
-add name="cqtlskj.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="cqtn.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="cqtnfs.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="cqtqzx.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
@@ -135621,7 +135562,6 @@ add name="cthj-co.com" type=FWD match-subdomain=yes comment="routeros-china-list
 add name="cthuwork.net" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="cti-cert.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="ctibet.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
-add name="ctic-lab.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="ctic-labs.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="ctiea.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="ctiforum.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
@@ -136000,7 +135940,6 @@ add name="cyctapp.com" type=FWD match-subdomain=yes comment="routeros-china-list
 add name="cydiaa.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="cydiakk.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="cydow.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
-add name="cyegushi.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="cyfeng.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="cyfengchao.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="cyfyydyfy.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
@@ -136598,7 +136537,6 @@ add name="dalanyouxi.com" type=FWD match-subdomain=yes comment="routeros-china-l
 add name="dalao.net" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="dalaosz.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="daleigroup.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
-add name="dalelingtea.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="dali-group.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="dalian-chuanpiao.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="dalianair-china.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
@@ -136934,7 +136872,6 @@ add name="datangzww.com" type=FWD match-subdomain=yes comment="routeros-china-li
 add name="dataodu.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="dataojo.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="dataoke.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
-add name="datarelab.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="datarj.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="datasheet5.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="datastoragesummit.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
@@ -137340,7 +137277,6 @@ add name="ddwjs.com" type=FWD match-subdomain=yes comment="routeros-china-lists:
 add name="ddxhx.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="ddxhyl.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="ddxq.mobi" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
-add name="ddxs.vip" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="ddxsku.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="ddxstxt8.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="ddyjapp.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
@@ -138312,7 +138248,6 @@ add name="dingdingzn.com" type=FWD match-subdomain=yes comment="routeros-china-l
 add name="dingdone.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="dingdongcloud.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="dingdongebusiness.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
-add name="dingdongmao.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="dingdongxiaoqu.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="dingdx.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="dingefactory.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
@@ -138433,6 +138368,7 @@ add name="ditianshanhe.com" type=FWD match-subdomain=yes comment="routeros-china
 add name="ditiezu.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="ditiezu.net" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="ditrit.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
+add name="dittocdn.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="ditu.live.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="dituhui.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="dituw.net" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
@@ -138781,6 +138717,7 @@ add name="dns-url.com" type=FWD match-subdomain=yes comment="routeros-china-list
 add name="dns-waf.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="dns.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="dns.la" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
+add name="dns.lat" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="dns.pub" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="dns002.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="dns0755.net" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
@@ -140233,7 +140170,6 @@ add name="dyspcdntip.com" type=FWD match-subdomain=yes comment="routeros-china-l
 add name="dyswl.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="dytmgm.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="dytss.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
-add name="dytt2028.cc" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="dytt789.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="dytt7899.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="dytt8.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
@@ -144299,7 +144235,6 @@ add name="fnmobi.com" type=FWD match-subdomain=yes comment="routeros-china-lists
 add name="fnnas.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="fnnas.net" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="fnnsh.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
-add name="fnnspa.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="fnos.net" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="fnrcw.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="fnrczp.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
@@ -145110,7 +145045,6 @@ add name="fuwuqu.com" type=FWD match-subdomain=yes comment="routeros-china-lists
 add name="fuxiaoli.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="fuxila.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="fuxinbank.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
-add name="fuxinews.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="fuxinghf.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="fuxingtech.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="fuxingwang.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
@@ -145450,7 +145384,6 @@ add name="g052m43e2ghn.com" type=FWD match-subdomain=yes comment="routeros-china
 add name="g1080.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="g12e.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="g12e.org" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
-add name="g15wt3ci68.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="g188.net" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="g1c5.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="g1d.net" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
@@ -146140,7 +146073,6 @@ add name="gdgpc.net" type=FWD match-subdomain=yes comment="routeros-china-lists:
 add name="gdgrsw.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="gdguangdong.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="gdguozhi.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
-add name="gdgwyw.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="gdgxw.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="gdgxxbw.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="gdgzhengzhou.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
@@ -147934,7 +147866,6 @@ add name="googlenav.com" type=FWD match-subdomain=yes comment="routeros-china-li
 add name="googleplus.party" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="googleppy.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="googlevoice.org" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
-add name="googley8rb.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="googleyixia.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="googoc.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="googol-power.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
@@ -148180,6 +148111,7 @@ add name="graphene.tv" type=FWD match-subdomain=yes comment="routeros-china-list
 add name="graueneko.xyz" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="gravity-engine.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="graz.quest" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
+add name="grboi.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="grcbank.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="grchina.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="great-future.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
@@ -149701,7 +149633,6 @@ add name="gxhszb.com" type=FWD match-subdomain=yes comment="routeros-china-lists
 add name="gxhtjx.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="gxhtte.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="gxhuabao.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
-add name="gxhuachi.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="gxhuachuang.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="gxhuadu.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="gxhuaen.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
@@ -152373,7 +152304,6 @@ add name="haomei-alu.com" type=FWD match-subdomain=yes comment="routeros-china-l
 add name="haomenke.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="haomifi.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="haomingguan.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
-add name="haommn.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="haomo-tech.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="haomove.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="haomzl.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
@@ -160418,7 +160348,6 @@ add name="iquegui.com" type=FWD match-subdomain=yes comment="routeros-china-list
 add name="iquickfish.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="iqujing.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="iqunix.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
-add name="iqunix.store" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="iqupdate.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="iqxedu.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="ir56.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
@@ -163905,7 +163834,6 @@ add name="johhan.com" type=FWD match-subdomain=yes comment="routeros-china-lists
 add name="johnlz.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="johnmedia.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="johouse.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
-add name="joi09110pt.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="joiest.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="joinchitchat.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="joindata.net" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
@@ -166659,7 +166587,6 @@ add name="kikuu.com" type=FWD match-subdomain=yes comment="routeros-china-lists:
 add name="kilamanbo.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="kililife.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="killdb.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
-add name="kilo1kw.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="kiloai.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="kimberley-technology.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="kimderlite.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
@@ -168485,7 +168412,6 @@ add name="lapulace.com" type=FWD match-subdomain=yes comment="routeros-china-lis
 add name="laravel-admin.org" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="laravelacademy.org" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="larenla.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
-add name="large.net" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="lark-passport-qa-sg.net" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="larkapp.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="larkcloud.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
@@ -169708,7 +169634,6 @@ add name="lightbox.games" type=FWD match-subdomain=yes comment="routeros-china-l
 add name="lighte-tech.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="lightgx.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="lighthg.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
-add name="lighting-china.net" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="lightingchina.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="lightinit.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="lightky.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
@@ -169737,7 +169662,6 @@ add name="lihtao.com" type=FWD match-subdomain=yes comment="routeros-china-lists
 add name="lihua.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="lihuadonghua.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="lihuamuye.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
-add name="lihuashouji.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="lihuasoft.net" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="lihui.net" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="lihuia.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
@@ -173594,7 +173518,6 @@ add name="mejxw.com" type=FWD match-subdomain=yes comment="routeros-china-lists:
 add name="mekedoo.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="meldingcloud.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="melecode.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
-add name="melizhi.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="mellowactivy.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="mellowgroups.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="melon-eptc.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
@@ -177636,7 +177559,6 @@ add name="njkq.net" type=FWD match-subdomain=yes comment="routeros-china-lists:d
 add name="njkskn.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="njkzgjj.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="njlanwu.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
-add name="njletop.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="njlg56.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="njlhzn.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="njlianyang.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
@@ -179380,7 +179302,6 @@ add name="onjobedu.com" type=FWD match-subdomain=yes comment="routeros-china-lis
 add name="onkocares.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="online-cmcc.net" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="online-edu.org" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
-add name="online-phaidon.shop" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="onlinecn.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="onlineding.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="onlinedown.net" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
@@ -180199,7 +180120,6 @@ add name="pangcheng.com" type=FWD match-subdomain=yes comment="routeros-china-li
 add name="pangdago.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="pangdasc.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="pangdly.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
-add name="panggugu.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="panghuasheng.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="pangjun.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="pangku.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
@@ -180875,7 +180795,6 @@ add name="php168.com" type=FWD match-subdomain=yes comment="routeros-china-lists
 add name="php168.net" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="php318.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="phpbbchina.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
-add name="phpcashshare.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="phpchina.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="phpcom.net" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="phpcomposer.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
@@ -181536,7 +181455,6 @@ add name="portal.euwe1.uds.lenovo.com" type=FWD match-subdomain=yes comment="rou
 add name="portal.naea1.uds.lenovo.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="portal.uds.lenovo.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="portalcdn.cdnetworks.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
-add name="portcontainer.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="porthebei.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="portjs.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="portjs.net" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
@@ -182200,6 +182118,7 @@ add name="pymeng.com" type=FWD match-subdomain=yes comment="routeros-china-lists
 add name="pymh.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="pyneo.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="pyou.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
+add name="pyquan.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="pyrc.net" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="pyshszh.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="pystar.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
@@ -189261,6 +189180,7 @@ add name="shengrungroup.com" type=FWD match-subdomain=yes comment="routeros-chin
 add name="shengsci.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="shengshizhicheng.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="shengtai.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
+add name="shengtai.cyou" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="shengtaigroup.net" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="shengtian.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="shengtiangames.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
@@ -190251,7 +190171,6 @@ add name="shuangxingcaisu.com" type=FWD match-subdomain=yes comment="routeros-ch
 add name="shuangxingseed.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="shuangxinhui.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="shuangxiumall.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
-add name="shuangyanjie.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="shuangyingmenye.net" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="shuangyingsx.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="shuangyuejn.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
@@ -196031,7 +195950,6 @@ add name="teamall.cc" type=FWD match-subdomain=yes comment="routeros-china-lists
 add name="teambition.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="teambition.net" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="teambitionapis.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
-add name="teamlogs.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="teamminus.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="teamshub.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="teamtop.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
@@ -196417,6 +196335,7 @@ add name="tengamy.com" type=FWD match-subdomain=yes comment="routeros-china-list
 add name="tenganxinxi.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="tengbai-it.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="tengbo.cc" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
+add name="tengcanxi.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="tengchangjiancai.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="tengdatumu.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="tengdawl.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
@@ -196806,7 +196725,6 @@ add name="thmz.com" type=FWD match-subdomain=yes comment="routeros-china-lists:d
 add name="thmzedu.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="thny.cc" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="thojmhw.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
-add name="thomanmustore.shop" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="thomasschools.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="thoreco.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="thorn.red" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
@@ -199392,7 +199310,6 @@ add name="tyuanlv.com" type=FWD match-subdomain=yes comment="routeros-china-list
 add name="tyust.net" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="tyuyan.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="tyuyan.net" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
-add name="tywbw.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="tywh.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="tywheels.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="tywx.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
@@ -204458,7 +204375,6 @@ add name="wobwxe.com" type=FWD match-subdomain=yes comment="routeros-china-lists
 add name="woc.space" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="woc88.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="wochacha.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
-add name="wochaw.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="woda.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="wodasi.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="wodavip.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
@@ -206460,6 +206376,7 @@ add name="xhjt.com" type=FWD match-subdomain=yes comment="routeros-china-lists:d
 add name="xhjyxxw.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="xhlcsl.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="xhlsgs.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
+add name="xhlylx.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="xhma.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="xhmedia.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="xhmwxy.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
@@ -207317,7 +207234,6 @@ add name="xigua110.com" type=FWD match-subdomain=yes comment="routeros-china-lis
 add name="xiguaapp.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="xiguabook.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="xiguaji.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
-add name="xiguang.xyz" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="xiguaplayer.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="xiguashipin.net" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="xiguavideo.net" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
@@ -208477,7 +208393,6 @@ add name="xmjzykj.com" type=FWD match-subdomain=yes comment="routeros-china-list
 add name="xmkanshu.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="xmkj.beer" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="xml-journal.net" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
-add name="xmldz4.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="xmlhifi.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="xmlib.net" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="xmlvbarcode.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
@@ -208762,7 +208677,6 @@ add name="xn--w9q84az17hvpi.xn--ses554g" type=FWD match-subdomain=yes comment="r
 add name="xn--w9qr0k.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="xn--w9qy23cc6adz7d.net" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="xn--wbsy6nk4mnpa575i6fy.xn--3ds443g" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
-add name="xn--wbsz85a2a.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="xn--wlq49r6tr7zal0u.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="xn--wxtr44c.live" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="xn--xcrv5deweeznlnez29a.xn--3ds443g" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
@@ -209272,7 +209186,6 @@ add name="xuesheng.com" type=FWD match-subdomain=yes comment="routeros-china-lis
 add name="xueshu.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="xueshu5.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="xueshuda.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
-add name="xueshujia.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="xueshut.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="xueshuwenhai.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="xuesongshuwood.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
@@ -217781,7 +217694,6 @@ add name="zjhui.net" type=FWD match-subdomain=yes comment="routeros-china-lists:
 add name="zjhwgroup.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="zjhx520.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="zjhxgf.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
-add name="zjhxw.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="zjhyrcb.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="zjhzgy.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
 add name="zjhzjt.com" type=FWD match-subdomain=yes comment="routeros-china-lists:domains"
